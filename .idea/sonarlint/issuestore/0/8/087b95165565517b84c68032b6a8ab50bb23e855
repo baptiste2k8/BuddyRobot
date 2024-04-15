@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ºüœ­
+S
+java:S1128">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr
+X
+java:S1128"BRemove this unused import 'androidx.preference.PreferenceManager'.(ìÁ‘
+D
+java:S1068".Remove this unused "nextAction" private field.(Ï»õŒ

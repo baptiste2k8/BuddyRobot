@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-1931091781">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1830126270">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1640921727">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1466152780">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1289468499">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Nexus_5_API_31" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1058372428">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-834461979">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-779261229">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-582125217">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-432724701">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-169093227">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-72937986">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="67682314">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="121281322">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="213859861">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="719968954">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="803136303">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1089294931">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1400771563">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1766654457">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1916488533">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM" value="120" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1958494829">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="192.168.0.61:5555" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="QUALCOMM&#10; sdm660 for arm64" value="120" />
+                  <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

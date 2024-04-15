@@ -1,0 +1,16 @@
+
+h
+java:S11928"RDefine a constant instead of duplicating this literal "YES_MOVE_FINISHED" 3 times.(ìÍÎ²
+f
+java:S11929"PDefine a constant instead of duplicating this literal "SayYes Success:" 3 times.(¶¼úÛ
+f
+java:S1192?"PDefine a constant instead of duplicating this literal "SayYes Failure:" 3 times.(ÒË•¦
+m
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(µ±…úÿÿÿÿ
+<	java:S1313""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+W	java:S125„"<This block of commented-out lines of code should be removed.(¥çËŸıÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+D
+java:S1068".Remove this unused "nextAction" private field.(Ï»õŒ
+â
+java:S6541""ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 101 to 64, Complexity from 25 to 14, Nesting Level from 4 to 2, Number of Variables from 13 to 6.(µ±…úÿÿÿÿ

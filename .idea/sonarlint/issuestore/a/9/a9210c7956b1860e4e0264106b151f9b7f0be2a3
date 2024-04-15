@@ -1,0 +1,24 @@
+
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(áŞÑñúÿÿÿÿ8÷¤ƒÁæ1
+j	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èë²İ8ø¤ƒÁæ1
+u	java:S116	"ZRename this field "touch_left_body" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¶ÍR8ø¤ƒÁæ1
+x	java:S116
+"\Rename this field "touch_center_body" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä“Ã8ø¤ƒÁæ1
+w	java:S116"[Rename this field "touch_right_body" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯„ÿÌ8ø¤ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ïû¸´şÿÿÿÿ8ÿ¤ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ïû¸´şÿÿÿÿ8ÿ¤ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ïû¸´şÿÿÿÿ8ÿ¤ƒÁæ1
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(áŞÑñúÿÿÿÿ8€¥ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(áŞÑñúÿÿÿÿ8€¥ƒÁæ1
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(áŞÑñúÿÿÿÿ8€¥ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(áŞÑñúÿÿÿÿ8€¥ƒÁæ1
+I
+java:S1125"'Remove the unnecessary boolean literal.(áŞÑñúÿÿÿÿ8€¥ƒÁæ1

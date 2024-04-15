@@ -1,0 +1,39 @@
+
+f
+java:S1192"JDefine a constant instead of duplicating this literal "Websocket" 4 times.(†Ç£²şÿÿÿÿ
+a
+java:S1192€"JDefine a constant instead of duplicating this literal "_FINISHED" 3 times.(ÒÎÓØ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "onSuccess" 4 times.(À•¹·
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ŞÛ‹
+D
+java:S1604–"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ì„Ùèıÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(ş¥ıî
+V	java:S1251"<This block of commented-out lines of code should be removed.(ó³¶‡ûÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(¨šïøıÿÿÿÿ
+Q	java:S125H"<This block of commented-out lines of code should be removed.(áÃÂ
+V	java:S125P"<This block of commented-out lines of code should be removed.(˜°ºËüÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(˜°ºËüÿÿÿÿ
+D
+java:S1659[".Declare "rightWheelStatus" on a separate line.(èÒ²®
+Q
+java:S1874d"4Remove this use of "enableWheels"; it is deprecated.(¡İõå8ì»£á1
+`
+java:S1659w"JDeclare "rotationSpeed" and all following declarations on a separate line.(‡¢ÃË
+R	java:S125"<This block of commented-out lines of code should be removed.(†¹¸
+W	java:S125”"<This block of commented-out lines of code should be removed.(ÛĞƒùÿÿÿÿ
+Q
+java:S1161Á":Add the "@Override" annotation above this method signature(¯İ¼‡
+R	java:S125Ï"<This block of commented-out lines of code should be removed.(ÒØ…ê
+R	java:S125â"<This block of commented-out lines of code should be removed.(Œ¾ñÕ
+H
+java:S1602ó",Remove useless curly braces around statement(ç‘‹ôüÿÿÿÿ
+Z
+java:S1854«">Remove this useless assignment to local variable "sslContext".(Óí€³ÿÿÿÿÿ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(¿Ëê‚
+R	java:S125™"<This block of commented-out lines of code should be removed.(™‘óğ
+K
+java:S1481«"/Remove this unused "sslContext" local variable.(Óí€³ÿÿÿÿÿ
+L
+java:S1144"5Remove this unused private "connectWebSocket" method.(Û•´¿

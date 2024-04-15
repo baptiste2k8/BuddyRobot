@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…Ø8“¨ŒÁæ1
+x
+java:S1104	"[Make rightSensorDist a static final constant or non-public and provide accessors if needed.(óÌ°ç8”¨ŒÁæ1
+|
+java:S1104
+"ZMake leftSensorDist a static final constant or non-public and provide accessors if needed.(û âğùÿÿÿÿ8”¨ŒÁæ1
+x
+java:S1104"[Make rightSensorAmpl a static final constant or non-public and provide accessors if needed.(›®÷ß8”¨ŒÁæ1
+w
+java:S1104"ZMake leftSensorAmpl a static final constant or non-public and provide accessors if needed.(äÇÖã8”¨ŒÁæ1
+o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾·…êÿÿÿÿÿ8¯¨ŒÁæ1
