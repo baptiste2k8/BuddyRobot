@@ -1,7 +1,0 @@
-
-h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áœÈ¸úÿÿÿÿ
-<
-java:S1170"!Make this final field static too.(áœÈ¸úÿÿÿÿ
-–
-java:S1130"{Remove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from constructor's body.(¥—Éþÿÿÿÿ
-S	java:S1067"9Replace this use of System.out or System.err by a logger.(ïëèÖýÿÿÿÿ

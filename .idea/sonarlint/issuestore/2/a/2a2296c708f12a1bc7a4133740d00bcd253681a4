@@ -1,14 +1,0 @@
-
-o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÊÐ…üÿÿÿÿ8®æâ¿æ1
-{	java:S116
-"ZRename this field "touch_left_head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦†ÖÙûÿÿÿÿ8®æâ¿æ1
-u	java:S116"YRename this field "touch_top_head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þþ‡ù8®æâ¿æ1
-|	java:S116"[Rename this field "touch_right_head" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‚ÑÚúÿÿÿÿ8®æâ¿æ1
-D
-java:S1125"'Remove the unnecessary boolean literal.(§éž‚8³æâ¿æ1
-6
-java:S2178"Correct this "&" to "&&".(§éž‚8´æâ¿æ1
-D
-java:S1125"'Remove the unnecessary boolean literal.(§éž‚8´æâ¿æ1
-D
-java:S1125"'Remove the unnecessary boolean literal.(§éž‚8´æâ¿æ1

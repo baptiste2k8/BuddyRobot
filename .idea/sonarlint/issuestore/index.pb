@@ -44,8 +44,6 @@ h
 8app/src/main/java/net/ptidej/buddytherobot/BlinkLed.java,7\a\7a9c98a92bf8b506787c03d2471beecae9b8184c
 s
 Capp/src/main/java/net/ptidej/buddytherobot/WheelStatusCallback.java,5\4\54056c9022ccf552ee5a608aa9033eec6c414606
-m
-=app/src/main/java/net/ptidej/buddytherobot/MainActivity2.java,e\a\eaf02b114f945b450a9fb304b5eb2168e4227f61
 n
 >app/src/main/java/net/ptidej/buddytherobot/EnableYesMotor.java,d\f\df3ed5de2b80b4323f79c74a69c361459db7a7e0
 d
@@ -58,8 +56,6 @@ A
 gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
-t
-Dapp/src/main/java/net/ptidej/buddytherobot/MainActivityTODELETE.java,2\f\2f75de519d32283e507397be875665611c3f8c54
 ?
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 w
@@ -70,19 +66,9 @@ j
 :app/src/main/java/net/ptidej/buddytherobot/BodySensor.java,a\9\a9210c7956b1860e4e0264106b151f9b7f0be2a3
 i
 9app/src/main/java/net/ptidej/buddytherobot/USSensors.java,f\d\fdd9764b4c489797f9e457568b852e9a7a954185
-j
-:app/src/main/java/net/ptidej/buddytherobot/HeadSensor.java,2\a\2a2296c708f12a1bc7a4133740d00bcd253681a4
 l
 <app/src/main/java/net/ptidej/buddytherobot/ActionStatus.java,6\4\64e9be4ec081761572137cfde74635b3092be66e
 o
 ?app/src/main/java/net/ptidej/buddytherobot/ExecutionStatus.java,c\c\ccac4e1ba1b3e87dfac216f7f232abb332bd711e
 g
 7app/src/main/java/net/ptidej/buddytherobot/ISensor.java,1\4\149da2c333698fbf04324465ac9b585625c4eec3
-m
-=app/src/main/java/net/ptidej/buddytherobot/MainActivity3.java,3\0\30723273283ded1323f754242d0ccaec8efb0c5b
-q
-Aapp/src/main/java/net/ptidej/buddytherobot/BuddySocketServer.java,d\c\dc045ff24c0dcd857dfa9168af702477c841d881
-t
-Dapp/src/main/java/net/ptidej/buddytherobot/Connecting2Websocket.java,3\f\3fcb60ab33f9e0f9c4a482de3bca19e6eca3fddd
-q
-Aapp/src/main/java/net/ptidej/buddytherobot/myWebSocketServer.java,8\1\81bea08d7bd52dd0a91bf8dbcf1705b77cc631b6

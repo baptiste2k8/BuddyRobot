@@ -103,7 +103,9 @@ public class MainActivity extends BuddyActivity {
         String websocketEndPointUrl;
         try {
            // websocketEndPointUrl="ws://192.168.2.39:8181"; // SocketServer's IP and port [home]
-            websocketEndPointUrl="ws://192.168.191.114:8181"; // SocketServer's IP and port  [lab]
+            //websocketEndPointUrl="ws://192.168.191.114:8181"; // SocketServer's IP and port  [lab]
+            //websocketEndPointUrl="ws://192.168.50.114:8181"; // SocketServer's IP and port  [androidWiFi]
+            websocketEndPointUrl="ws://172.20.10.6:8181"; // SocketServer's IP and port  [androidWiFi]
             uri = new URI(websocketEndPointUrl);
         } catch (URISyntaxException e) {
             e.printStackTrace();

@@ -9,7 +9,6 @@ import android.content.Context;
 import android.content.SharedPreferences;
 public class Move extends Action{
     protected float speed;
-    protected String actionStatus;
     protected float distance;
     private final Action nextAction;
     ExecutionStatus es;
